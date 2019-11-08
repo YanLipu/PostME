@@ -1,0 +1,34 @@
+body {
+    background-color: #363636;
+    font-size: 24px;
+    font-family: Helvetica;
+    color: antiquewhite;
+    text-align: center;     
+}
+
+.login {
+    font-family: cursive;
+    color: coral;
+}
+
+p {font-size: 32px;
+text-align: center;
+padding: 20px;
+}
+
+p a {
+    color: antiquewhite;
+    width: 300px;
+    height: 50px;
+    font-size: 14px;
+    border-radius: 5px;
+    background: rgb(36, 175, 255);
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p a:hover{
+    text-decoration: underline;
+    color: rgb(206, 5, 5);
+}
